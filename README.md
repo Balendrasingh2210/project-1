@@ -1,10 +1,9 @@
-# project_1
+# Login UI using pincode
 
-Login UI using pincode
 
-## Getting Started
+## This project is a login ui using flutter riverpod, providers and shared preferences.
 
-This project is a login ui using flutter riverpod, providers and shared preferences.
+
 This consists of three screens -
 1. login 
 2. authentication
